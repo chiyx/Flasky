@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "./venv/bin/python",
+    "code-runner.executorMap": {
+        "python": "./venv/bin/python"
+    },
+    "code-runner.runInTerminal": true
+}
